@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Edit by! tksoftnet@gmail.com
+=======
+Edit buy nguyentrongtiencntt@gmail.com
+>>>>>>> 578621531b2eb5b6c06a7ddcd4f5c7ff483671c0
